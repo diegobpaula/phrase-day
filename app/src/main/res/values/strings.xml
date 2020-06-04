@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Frase do Dia</string>
+    <string name="nova_frase">New phrase</string>
+    <string name="limpar_tela">to clear</string>
+</resources>
